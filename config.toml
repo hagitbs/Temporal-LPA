@@ -1,0 +1,11 @@
+corpus = "loco_mainstream" # loco_mainstream, loco_conspiracy
+end_date = 2020-06-30      # 2020-06-30 for loco, 2005-01-01 for enron, 2002-02-10 for shortened enron
+epsilon = 0                # specify epsilon if known ahead of time
+freq = "MS"                # MS, D, W
+lambda = 1                 # > 0
+metric = "sqrt_JSD"        # KLD_divergence_consecutive, JSD, JSD_max, sqrt_JSD
+start_date = 2000-01-01    # 2000-01-01 for loco, 1997-01-01 for enron, 2000-08-01 for shortened enron
+threshold = 10             # minimum texts in group to consider
+sig_length = 0             # 0 gives full signature
+prevelent = 0.75           # divide the number of documents by this number to declare prevelency
+word = "ALABAMA"

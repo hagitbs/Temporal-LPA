@@ -1,7 +1,8 @@
 ### run localy from vscode
-open folder /Users/hagitbenshoshan/Documents/PHD/Temporal-LPA
+open folder /Users/hagitbenshoshan/Documents/PHD/Temporal-LPA-1 
 under notebooks run "new.ipynb" 
 This folder is synced with : https://github.com/hagitbs/Temporal-LPA
+Python 3.7
 ### Installation
 
 Run `pip install -r requirements.txt`. Make sure your Python version is up to date. 

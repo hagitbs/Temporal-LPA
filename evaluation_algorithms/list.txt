@@ -1,0 +1,960 @@
+HIV/AIDS                                     -3.361639e-03
+Diarrheal diseases                            1.394389e-03
+Lower respiratory infections                  9.448597e-04
+Nutritional deficiencies                      8.186306e-04
+Neonatal disorders                            7.761928e-04
+Protein-energy malnutrition                   6.958659e-04
+Neoplasms                                    -6.887669e-04
+Alzheimer's disease and other dementias      -5.591343e-04
+Cardiovascular diseases                      -4.439673e-04
+Tuberculosis                                  4.294045e-04
+Diabetes mellitus                            -3.594479e-04
+Chronic kidney disease                       -3.492274e-04
+Drowning                                      2.450540e-04
+Meningitis                                    1.507176e-04
+Parkinson's disease                          -9.301353e-05
+Acute hepatitis                               8.176094e-05
+Maternal disorders                            7.850842e-05
+Malaria                                       3.669021e-05
+Cirrhosis and other chronic liver diseases   -3.560654e-05
+Drug use disorders                           -3.031055e-05
+Alcohol use disorders                        -2.231042e-05
+Digestive diseases                           -1.680441e-05
+Conflict and terrorism                        1.246405e-05
+Fire, heat, and hot substances                8.877115e-06
+Self-harm                                     6.285503e-06
+Poisonings                                    5.488082e-06
+Road injuries                                 4.662874e-06
+Exposure to forces of nature                  2.850621e-06
+Interpersonal violence                       -4.803287e-07
+Environmental heat and cold exposure          2.029941e-07
+Chronic respiratory diseases                 -9.316672e-08
+Name: 1990, dtype: float64
+HIV/AIDS                                     -2.400093e-03
+Diarrheal diseases                            1.317800e-03
+Lower respiratory infections                  7.871184e-04
+Nutritional deficiencies                      6.704486e-04
+Neonatal disorders                            6.451044e-04
+Neoplasms                                    -6.292891e-04
+Protein-energy malnutrition                   5.649662e-04
+Exposure to forces of nature                  5.341803e-04
+Alzheimer's disease and other dementias      -4.990762e-04
+Cardiovascular diseases                      -4.377482e-04
+Tuberculosis                                  4.051797e-04
+Chronic kidney disease                       -3.335880e-04
+Diabetes mellitus                            -3.297018e-04
+Drowning                                      2.115600e-04
+Meningitis                                    1.300383e-04
+Parkinson's disease                          -8.711455e-05
+Acute hepatitis                               7.315354e-05
+Maternal disorders                            6.307308e-05
+Malaria                                       4.391676e-05
+Cirrhosis and other chronic liver diseases   -3.422149e-05
+Drug use disorders                           -1.747618e-05
+Digestive diseases                           -1.678105e-05
+Alcohol use disorders                        -1.496007e-05
+Conflict and terrorism                       -9.382037e-06
+Fire, heat, and hot substances                8.123060e-06
+Self-harm                                     8.097223e-06
+Poisonings                                    4.317130e-06
+Road injuries                                 2.497747e-06
+Environmental heat and cold exposure          4.812244e-07
+Chronic respiratory diseases                  9.669258e-08
+Interpersonal violence                       -1.600610e-10
+Name: 1991, dtype: float64
+HIV/AIDS                                     -0.001566
+Diarrheal diseases                            0.001167
+Lower respiratory infections                  0.000685
+Neonatal disorders                            0.000552
+Nutritional deficiencies                      0.000542
+Neoplasms                                    -0.000535
+Protein-energy malnutrition                   0.000454
+Alzheimer's disease and other dementias      -0.000437
+Tuberculosis                                  0.000415
+Cardiovascular diseases                      -0.000361
+Chronic kidney disease                       -0.000302
+Diabetes mellitus                            -0.000286
+Drowning                                      0.000181
+Exposure to forces of nature                 -0.000168
+Meningitis                                    0.000117
+Parkinson's disease                          -0.000079
+Conflict and terrorism                       -0.000074
+Acute hepatitis                               0.000065
+Maternal disorders                            0.000060
+Malaria                                       0.000035
+Cirrhosis and other chronic liver diseases   -0.000029
+Digestive diseases                           -0.000013
+Self-harm                                     0.000013
+Drug use disorders                           -0.000010
+Fire, heat, and hot substances                0.000008
+Alcohol use disorders                        -0.000006
+Poisonings                                    0.000004
+Interpersonal violence                        0.000004
+Road injuries                                 0.000002
+Environmental heat and cold exposure          0.000002
+Chronic respiratory diseases                  0.000002
+Name: 1992, dtype: float64
+HIV/AIDS                                     -9.188617e-04
+Diarrheal diseases                            8.809537e-04
+Lower respiratory infections                  5.381097e-04
+Neoplasms                                    -4.524494e-04
+Neonatal disorders                            4.317005e-04
+Nutritional deficiencies                      4.168864e-04
+Alzheimer's disease and other dementias      -3.925245e-04
+Protein-energy malnutrition                   3.500867e-04
+Tuberculosis                                  3.040287e-04
+Chronic kidney disease                       -2.838203e-04
+Cardiovascular diseases                      -2.604758e-04
+Diabetes mellitus                            -2.508513e-04
+Drowning                                      1.594759e-04
+Meningitis                                    9.220637e-05
+Conflict and terrorism                       -7.577043e-05
+Exposure to forces of nature                 -7.464687e-05
+Parkinson's disease                          -7.153968e-05
+Acute hepatitis                               5.442349e-05
+Maternal disorders                            4.252516e-05
+Malaria                                       2.873616e-05
+Cirrhosis and other chronic liver diseases   -2.453558e-05
+Self-harm                                     1.832871e-05
+Interpersonal violence                        1.487497e-05
+Digestive diseases                           -1.195485e-05
+Fire, heat, and hot substances                8.515640e-06
+Environmental heat and cold exposure          8.379545e-06
+Drug use disorders                           -4.862803e-06
+Poisonings                                    4.298666e-06
+Chronic respiratory diseases                  2.684333e-06
+Road injuries                                 1.209818e-06
+Alcohol use disorders                        -5.169114e-07
+Name: 1993, dtype: float64
+Conflict and terrorism                        2.730702e-03
+Diarrheal diseases                            6.354374e-04
+HIV/AIDS                                     -4.650890e-04
+Neoplasms                                    -4.599566e-04
+Lower respiratory infections                  3.745732e-04
+Alzheimer's disease and other dementias      -3.662778e-04
+Nutritional deficiencies                      3.038438e-04
+Neonatal disorders                            3.031536e-04
+Cardiovascular diseases                      -2.940100e-04
+Chronic kidney disease                       -2.740355e-04
+Protein-energy malnutrition                   2.571638e-04
+Diabetes mellitus                            -2.348678e-04
+Tuberculosis                                  2.140377e-04
+Exposure to forces of nature                 -1.651765e-04
+Drowning                                      1.327358e-04
+Parkinson's disease                          -6.999618e-05
+Meningitis                                    6.455684e-05
+Acute hepatitis                               4.149861e-05
+Maternal disorders                            3.284540e-05
+Cirrhosis and other chronic liver diseases   -2.570845e-05
+Self-harm                                     2.358648e-05
+Digestive diseases                           -1.689376e-05
+Environmental heat and cold exposure          1.475138e-05
+Interpersonal violence                        1.456009e-05
+Malaria                                       1.329681e-05
+Fire, heat, and hot substances                7.827602e-06
+Poisonings                                    3.388779e-06
+Drug use disorders                           -1.956319e-06
+Road injuries                                 3.402583e-07
+Alcohol use disorders                         1.397547e-07
+Chronic respiratory diseases                  4.774928e-08
+Name: 1994, dtype: float64
+Nutritional deficiencies                      5.261238e-04
+Diarrheal diseases                            5.143239e-04
+Protein-energy malnutrition                   4.933960e-04
+Neoplasms                                    -3.526816e-04
+Lower respiratory infections                  3.245963e-04
+Alzheimer's disease and other dementias      -3.028151e-04
+Neonatal disorders                            2.749782e-04
+Cardiovascular diseases                      -2.353278e-04
+Chronic kidney disease                       -2.297165e-04
+Tuberculosis                                  1.940152e-04
+Diabetes mellitus                            -1.885281e-04
+HIV/AIDS                                     -1.514656e-04
+Drowning                                      1.200795e-04
+Exposure to forces of nature                 -9.559482e-05
+Conflict and terrorism                       -6.326231e-05
+Parkinson's disease                          -5.892332e-05
+Meningitis                                    5.857124e-05
+Acute hepatitis                               3.711628e-05
+Maternal disorders                            2.953968e-05
+Self-harm                                     2.949922e-05
+Cirrhosis and other chronic liver diseases   -1.734398e-05
+Malaria                                       1.699359e-05
+Interpersonal violence                        1.627572e-05
+Environmental heat and cold exposure          1.536055e-05
+Digestive diseases                           -1.130240e-05
+Fire, heat, and hot substances                6.819108e-06
+Poisonings                                    2.993764e-06
+Road injuries                                 1.261515e-06
+Alcohol use disorders                         6.881764e-07
+Chronic respiratory diseases                  6.120622e-07
+Drug use disorders                           -4.449192e-07
+Name: 1995, dtype: float64
+Diarrheal diseases                            4.056768e-04
+Nutritional deficiencies                      3.600798e-04
+Protein-energy malnutrition                   3.359099e-04
+Neoplasms                                    -2.929591e-04
+Alzheimer's disease and other dementias      -2.534150e-04
+Lower respiratory infections                  2.446461e-04
+Neonatal disorders                            2.265733e-04
+Cardiovascular diseases                      -2.129995e-04
+Chronic kidney disease                       -1.891474e-04
+Tuberculosis                                  1.645258e-04
+Diabetes mellitus                            -1.465827e-04
+Exposure to forces of nature                 -1.390004e-04
+Drowning                                      9.025755e-05
+Meningitis                                    6.805116e-05
+Parkinson's disease                          -4.917983e-05
+Acute hepatitis                               2.937765e-05
+Maternal disorders                            2.505243e-05
+Self-harm                                     2.358572e-05
+HIV/AIDS                                     -2.316264e-05
+Malaria                                       2.117613e-05
+Cirrhosis and other chronic liver diseases   -1.387881e-05
+Conflict and terrorism                       -1.220946e-05
+Digestive diseases                           -9.845856e-06
+Interpersonal violence                        7.922112e-06
+Environmental heat and cold exposure          7.195545e-06
+Fire, heat, and hot substances                5.025142e-06
+Chronic respiratory diseases                  2.047554e-06
+Poisonings                                    1.852240e-06
+Road injuries                                 8.360814e-07
+Alcohol use disorders                         4.838771e-07
+Drug use disorders                           -1.188255e-07
+Name: 1996, dtype: float64
+Diarrheal diseases                            3.233864e-04
+Nutritional deficiencies                      2.802418e-04
+Protein-energy malnutrition                   2.633593e-04
+Neoplasms                                    -2.558442e-04
+Alzheimer's disease and other dementias      -2.186309e-04
+Cardiovascular diseases                      -2.002481e-04
+Neonatal disorders                            1.793108e-04
+Lower respiratory infections                  1.760676e-04
+Tuberculosis                                  1.550648e-04
+Chronic kidney disease                       -1.491404e-04
+Diabetes mellitus                            -1.113226e-04
+Exposure to forces of nature                 -1.092007e-04
+Drowning                                      6.798863e-05
+Parkinson's disease                          -4.087065e-05
+Meningitis                                    4.040679e-05
+Malaria                                       3.042691e-05
+Acute hepatitis                               2.497066e-05
+Maternal disorders                            2.452064e-05
+Self-harm                                     2.118816e-05
+Cirrhosis and other chronic liver diseases   -1.167961e-05
+Digestive diseases                           -8.776360e-06
+Interpersonal violence                        3.988726e-06
+Fire, heat, and hot substances                3.926239e-06
+Chronic respiratory diseases                  3.616420e-06
+Environmental heat and cold exposure          2.703415e-06
+HIV/AIDS                                      1.748634e-06
+Conflict and terrorism                       -1.448499e-06
+Poisonings                                    8.256425e-07
+Road injuries                                 6.543239e-07
+Alcohol use disorders                         1.325832e-07
+Drug use disorders                           -8.470444e-08
+Name: 1997, dtype: float64
+Diarrheal diseases                            2.501525e-04
+Neoplasms                                    -2.108570e-04
+Nutritional deficiencies                      2.021080e-04
+Cardiovascular diseases                      -1.959478e-04
+Protein-energy malnutrition                   1.947617e-04
+Alzheimer's disease and other dementias      -1.870171e-04
+Tuberculosis                                  1.365835e-04
+Neonatal disorders                            1.352668e-04
+Chronic kidney disease                       -1.140179e-04
+Lower respiratory infections                  1.135239e-04
+Diabetes mellitus                            -8.510659e-05
+HIV/AIDS                                      6.337257e-05
+Drowning                                      5.347328e-05
+Parkinson's disease                          -3.341781e-05
+Malaria                                       3.104811e-05
+Meningitis                                    2.796235e-05
+Maternal disorders                            2.164975e-05
+Self-harm                                     2.134690e-05
+Acute hepatitis                               1.955224e-05
+Cirrhosis and other chronic liver diseases   -1.051239e-05
+Digestive diseases                           -9.049742e-06
+Interpersonal violence                        4.398959e-06
+Environmental heat and cold exposure          3.115560e-06
+Chronic respiratory diseases                  2.562151e-06
+Fire, heat, and hot substances                2.339141e-06
+Road injuries                                 4.956810e-07
+Poisonings                                    3.714177e-07
+Conflict and terrorism                        2.217349e-07
+Alcohol use disorders                         8.551736e-08
+Drug use disorders                            9.394655e-09
+Exposure to forces of nature                 -1.343632e-12
+Name: 1998, dtype: float64
+HIV/AIDS                                      2.026684e-04
+Neoplasms                                    -1.651458e-04
+Diarrheal diseases                            1.626871e-04
+Alzheimer's disease and other dementias      -1.615515e-04
+Cardiovascular diseases                      -1.555833e-04
+Protein-energy malnutrition                   1.332284e-04
+Nutritional deficiencies                      1.318635e-04
+Tuberculosis                                  1.090412e-04
+Chronic kidney disease                       -8.977283e-05
+Neonatal disorders                            8.738010e-05
+Diabetes mellitus                            -6.844254e-05
+Lower respiratory infections                  5.747564e-05
+Conflict and terrorism                        3.556748e-05
+Drowning                                      3.425897e-05
+Exposure to forces of nature                  2.796235e-05
+Parkinson's disease                          -2.700804e-05
+Self-harm                                     2.176799e-05
+Meningitis                                    2.017977e-05
+Malaria                                       1.898516e-05
+Maternal disorders                            1.754731e-05
+Acute hepatitis                               1.384172e-05
+Digestive diseases                           -9.489007e-06
+Cirrhosis and other chronic liver diseases   -9.488995e-06
+Interpersonal violence                        5.768812e-06
+Fire, heat, and hot substances                2.143076e-06
+Environmental heat and cold exposure          1.465308e-06
+Road injuries                                 7.436069e-07
+Chronic respiratory diseases                  6.371748e-07
+Alcohol use disorders                         4.340874e-07
+Poisonings                                    2.714790e-07
+Drug use disorders                            1.193067e-07
+Name: 1999, dtype: float64
+HIV/AIDS                                      3.841200e-04
+Exposure to forces of nature                 -2.303416e-04
+Alzheimer's disease and other dementias      -1.303617e-04
+Neoplasms                                    -1.172691e-04
+Cardiovascular diseases                      -1.097096e-04
+Diarrheal diseases                            9.506898e-05
+Tuberculosis                                  9.125994e-05
+Protein-energy malnutrition                   8.720205e-05
+Nutritional deficiencies                      8.257309e-05
+Chronic kidney disease                       -6.256930e-05
+Neonatal disorders                            5.629892e-05
+Diabetes mellitus                            -4.953565e-05
+Lower respiratory infections                  2.242341e-05
+Drowning                                      2.114797e-05
+Parkinson's disease                          -1.979530e-05
+Self-harm                                     1.672998e-05
+Meningitis                                    1.418286e-05
+Maternal disorders                            1.374976e-05
+Malaria                                       9.681683e-06
+Acute hepatitis                               9.366535e-06
+Interpersonal violence                        8.747431e-06
+Digestive diseases                           -7.466304e-06
+Cirrhosis and other chronic liver diseases   -6.497731e-06
+Conflict and terrorism                        4.299721e-06
+Environmental heat and cold exposure          2.504858e-06
+Fire, heat, and hot substances                1.987705e-06
+Alcohol use disorders                         1.653694e-06
+Road injuries                                 1.577208e-06
+Chronic respiratory diseases                  7.364213e-07
+Drug use disorders                            4.612469e-07
+Poisonings                                    4.525111e-07
+Name: 2000, dtype: float64
+HIV/AIDS                                      5.757810e-04
+Alzheimer's disease and other dementias      -9.785343e-05
+Neoplasms                                    -8.785773e-05
+Conflict and terrorism                       -7.620509e-05
+Cardiovascular diseases                      -6.963504e-05
+Tuberculosis                                  5.616856e-05
+Protein-energy malnutrition                   4.982734e-05
+Nutritional deficiencies                      4.419553e-05
+Diarrheal diseases                            4.414213e-05
+Chronic kidney disease                       -4.123415e-05
+Exposure to forces of nature                 -3.812827e-05
+Neonatal disorders                            3.275755e-05
+Diabetes mellitus                            -3.142676e-05
+Malaria                                       2.197182e-05
+Parkinson's disease                          -1.296850e-05
+Drowning                                      1.009526e-05
+Maternal disorders                            8.745926e-06
+Meningitis                                    8.421284e-06
+Interpersonal violence                        7.541028e-06
+Self-harm                                     6.055262e-06
+Acute hepatitis                               5.083555e-06
+Digestive diseases                           -4.641289e-06
+Alcohol use disorders                         3.278439e-06
+Environmental heat and cold exposure          3.171323e-06
+Cirrhosis and other chronic liver diseases   -3.041851e-06
+Lower respiratory infections                  2.747853e-06
+Road injuries                                 2.084480e-06
+Fire, heat, and hot substances                1.485187e-06
+Poisonings                                    4.188746e-07
+Chronic respiratory diseases                  3.452852e-07
+Drug use disorders                            4.414887e-09
+Name: 2001, dtype: float64
+HIV/AIDS                                      7.327357e-04
+Exposure to forces of nature                 -2.332714e-04
+Conflict and terrorism                       -8.184172e-05
+Alzheimer's disease and other dementias      -7.044808e-05
+Neoplasms                                    -6.264477e-05
+Cardiovascular diseases                      -3.233670e-05
+Malaria                                       2.620486e-05
+Tuberculosis                                  2.619610e-05
+Chronic kidney disease                       -2.456754e-05
+Protein-energy malnutrition                   2.266697e-05
+Nutritional deficiencies                      1.687717e-05
+Diabetes mellitus                            -1.602935e-05
+Neonatal disorders                            1.577892e-05
+Interpersonal violence                        1.099390e-05
+Diarrheal diseases                            9.283562e-06
+Parkinson's disease                          -7.485377e-06
+Environmental heat and cold exposure          5.558433e-06
+Alcohol use disorders                         4.872470e-06
+Maternal disorders                            3.627986e-06
+Meningitis                                    3.074975e-06
+Digestive diseases                           -2.485398e-06
+Road injuries                                 2.076836e-06
+Drowning                                      1.932821e-06
+Self-harm                                     1.535386e-06
+Acute hepatitis                               1.353462e-06
+Cirrhosis and other chronic liver diseases   -8.788055e-07
+Lower respiratory infections                 -8.684895e-07
+Fire, heat, and hot substances                7.022041e-07
+Drug use disorders                           -4.301370e-07
+Poisonings                                    3.398092e-07
+Chronic respiratory diseases                  3.727622e-08
+Name: 2002, dtype: float64
+HIV/AIDS                                      8.714754e-04
+Conflict and terrorism                       -6.490561e-05
+Malaria                                       4.552032e-05
+Alzheimer's disease and other dementias      -4.366645e-05
+Neoplasms                                    -3.207976e-05
+Nutritional deficiencies                     -2.510426e-05
+Protein-energy malnutrition                  -2.040371e-05
+Exposure to forces of nature                 -1.877662e-05
+Cardiovascular diseases                      -1.184911e-05
+Chronic kidney disease                       -1.165092e-05
+Tuberculosis                                  8.948480e-06
+Lower respiratory infections                 -8.621817e-06
+Neonatal disorders                            7.665339e-06
+Environmental heat and cold exposure          7.510391e-06
+Alcohol use disorders                         6.780484e-06
+Diabetes mellitus                            -6.079758e-06
+Parkinson's disease                          -3.674487e-06
+Road injuries                                 3.001307e-06
+Interpersonal violence                        2.959070e-06
+Meningitis                                    1.615572e-06
+Drug use disorders                           -1.592044e-06
+Self-harm                                     1.464592e-06
+Maternal disorders                            9.314909e-07
+Fire, heat, and hot substances                5.964729e-07
+Digestive diseases                           -5.788700e-07
+Poisonings                                    4.130519e-07
+Chronic respiratory diseases                 -8.318017e-08
+Acute hepatitis                               6.981498e-08
+Drowning                                     -5.076231e-08
+Diarrheal diseases                           -3.154395e-08
+Cirrhosis and other chronic liver diseases    4.435917e-09
+Name: 2003, dtype: float64
+Exposure to forces of nature                  1.000833e-03
+HIV/AIDS                                      9.436096e-04
+Conflict and terrorism                       -6.799439e-05
+Nutritional deficiencies                     -5.454910e-05
+Protein-energy malnutrition                  -4.513865e-05
+Malaria                                       4.314240e-05
+Lower respiratory infections                 -2.672843e-05
+Alzheimer's disease and other dementias      -2.294282e-05
+Cardiovascular diseases                      -1.489339e-05
+Neoplasms                                    -1.427595e-05
+Diarrheal diseases                           -1.347661e-05
+Alcohol use disorders                         7.426466e-06
+Chronic kidney disease                       -5.488464e-06
+Road injuries                                 4.028389e-06
+Chronic respiratory diseases                 -2.875671e-06
+Diabetes mellitus                            -2.703652e-06
+Environmental heat and cold exposure          2.468591e-06
+Neonatal disorders                            2.207159e-06
+Drug use disorders                           -2.017427e-06
+Parkinson's disease                          -1.804048e-06
+Drowning                                     -1.789483e-06
+Self-harm                                     1.688937e-06
+Interpersonal violence                        1.040730e-06
+Poisonings                                    5.341688e-07
+Cirrhosis and other chronic liver diseases    3.367127e-07
+Digestive diseases                           -3.062044e-07
+Meningitis                                    2.988664e-07
+Maternal disorders                            1.216072e-07
+Fire, heat, and hot substances                1.065627e-07
+Acute hepatitis                              -3.934888e-08
+Tuberculosis                                  7.867052e-09
+Name: 2004, dtype: float64
+HIV/AIDS                                      8.883311e-04
+Conflict and terrorism                       -1.189546e-04
+Nutritional deficiencies                     -8.566849e-05
+Exposure to forces of nature                  7.626267e-05
+Protein-energy malnutrition                  -7.277611e-05
+Lower respiratory infections                 -4.099260e-05
+Diarrheal diseases                           -3.375273e-05
+Malaria                                       2.503511e-05
+Alzheimer's disease and other dementias      -7.901215e-06
+Alcohol use disorders                         7.624647e-06
+Road injuries                                 4.938771e-06
+Drowning                                     -4.486623e-06
+Environmental heat and cold exposure          3.150956e-06
+Chronic respiratory diseases                 -3.104728e-06
+Cirrhosis and other chronic liver diseases    2.826306e-06
+Tuberculosis                                 -2.475373e-06
+Self-harm                                     2.147133e-06
+Neoplasms                                    -1.926797e-06
+Cardiovascular diseases                      -1.401713e-06
+Drug use disorders                           -7.306085e-07
+Poisonings                                    5.707361e-07
+Chronic kidney disease                       -3.175025e-07
+Digestive diseases                            2.763539e-07
+Parkinson's disease                          -1.550181e-07
+Interpersonal violence                        1.302610e-07
+Fire, heat, and hot substances                9.138781e-08
+Acute hepatitis                              -7.373914e-08
+Meningitis                                    3.553943e-08
+Maternal disorders                            6.718721e-09
+Neonatal disorders                           -2.214597e-09
+Diabetes mellitus                            -5.189461e-10
+Name: 2005, dtype: float64
+HIV/AIDS                                      7.399275e-04
+Nutritional deficiencies                     -1.111988e-04
+Exposure to forces of nature                 -1.004891e-04
+Protein-energy malnutrition                  -9.723100e-05
+Conflict and terrorism                       -5.435816e-05
+Lower respiratory infections                 -5.255178e-05
+Diarrheal diseases                           -3.846594e-05
+Malaria                                       2.784072e-05
+Drowning                                     -1.126961e-05
+Tuberculosis                                 -8.673620e-06
+Road injuries                                 5.561611e-06
+Alcohol use disorders                         5.219358e-06
+Cirrhosis and other chronic liver diseases    5.051532e-06
+Chronic respiratory diseases                 -3.827272e-06
+Diabetes mellitus                             1.868723e-06
+Digestive diseases                            1.442634e-06
+Chronic kidney disease                        1.410567e-06
+Neonatal disorders                           -9.420401e-07
+Environmental heat and cold exposure          9.020225e-07
+Self-harm                                     7.237140e-07
+Acute hepatitis                              -6.181023e-07
+Drug use disorders                           -4.985586e-07
+Neoplasms                                     4.661443e-07
+Parkinson's disease                           2.274182e-07
+Cardiovascular diseases                      -2.061822e-07
+Maternal disorders                           -1.768923e-07
+Poisonings                                    1.412013e-07
+Alzheimer's disease and other dementias      -1.261729e-07
+Interpersonal violence                       -8.656460e-08
+Fire, heat, and hot substances               -1.588335e-08
+Meningitis                                    6.709038e-10
+Name: 2006, dtype: float64
+HIV/AIDS                                      5.091426e-04
+Nutritional deficiencies                     -1.468811e-04
+Exposure to forces of nature                 -1.356406e-04
+Protein-energy malnutrition                  -1.308239e-04
+Lower respiratory infections                 -7.152957e-05
+Conflict and terrorism                       -6.597607e-05
+Diarrheal diseases                           -5.934116e-05
+Malaria                                       2.597006e-05
+Tuberculosis                                 -2.024777e-05
+Drowning                                     -1.817482e-05
+Neoplasms                                     1.031141e-05
+Chronic kidney disease                        8.008818e-06
+Cirrhosis and other chronic liver diseases    7.654656e-06
+Road injuries                                 6.621017e-06
+Diabetes mellitus                             6.442020e-06
+Neonatal disorders                           -6.431737e-06
+Alzheimer's disease and other dementias       3.826115e-06
+Chronic respiratory diseases                 -3.699750e-06
+Digestive diseases                            2.956484e-06
+Alcohol use disorders                         2.923631e-06
+Acute hepatitis                              -2.386751e-06
+Parkinson's disease                           1.886371e-06
+Maternal disorders                           -1.600675e-06
+Cardiovascular diseases                       1.362605e-06
+Interpersonal violence                       -1.061674e-06
+Meningitis                                   -4.300709e-07
+Drug use disorders                           -3.841032e-07
+Fire, heat, and hot substances               -1.986369e-07
+Environmental heat and cold exposure         -5.926747e-08
+Poisonings                                    4.918111e-09
+Self-harm                                    -5.045511e-11
+Name: 2007, dtype: float64
+Exposure to forces of nature                  9.249357e-04
+HIV/AIDS                                      2.697585e-04
+Nutritional deficiencies                     -1.894692e-04
+Protein-energy malnutrition                  -1.715932e-04
+Lower respiratory infections                 -1.039038e-04
+Diarrheal diseases                           -1.020685e-04
+Conflict and terrorism                       -9.652683e-05
+Tuberculosis                                 -4.265273e-05
+Drowning                                     -2.958667e-05
+Neonatal disorders                           -2.492445e-05
+Neoplasms                                     2.369278e-05
+Chronic kidney disease                        1.741083e-05
+Malaria                                       1.535010e-05
+Alzheimer's disease and other dementias       1.396585e-05
+Diabetes mellitus                             1.180915e-05
+Cirrhosis and other chronic liver diseases    8.284783e-06
+Cardiovascular diseases                       6.887387e-06
+Acute hepatitis                              -5.609577e-06
+Road injuries                                 5.342826e-06
+Maternal disorders                           -4.838754e-06
+Parkinson's disease                           4.726648e-06
+Meningitis                                   -4.186407e-06
+Chronic respiratory diseases                 -3.784482e-06
+Digestive diseases                            3.018864e-06
+Interpersonal violence                       -1.587163e-06
+Alcohol use disorders                         1.106443e-06
+Self-harm                                    -1.021637e-06
+Fire, heat, and hot substances               -8.769589e-07
+Environmental heat and cold exposure         -8.621833e-07
+Drug use disorders                           -3.747639e-07
+Poisonings                                   -1.213137e-08
+Name: 2008, dtype: float64
+Nutritional deficiencies                     -2.233459e-04
+Exposure to forces of nature                 -2.029176e-04
+Protein-energy malnutrition                  -2.026153e-04
+Diarrheal diseases                           -1.586263e-04
+HIV/AIDS                                      1.333614e-04
+Lower respiratory infections                 -1.201615e-04
+Neoplasms                                     7.338652e-05
+Tuberculosis                                 -6.947038e-05
+Conflict and terrorism                       -6.702307e-05
+Alzheimer's disease and other dementias       4.285039e-05
+Drowning                                     -3.810314e-05
+Neonatal disorders                           -3.759868e-05
+Chronic kidney disease                        3.707770e-05
+Cardiovascular diseases                       3.525141e-05
+Diabetes mellitus                             2.348003e-05
+Malaria                                       1.038723e-05
+Cirrhosis and other chronic liver diseases    1.003550e-05
+Parkinson's disease                           1.002488e-05
+Acute hepatitis                              -9.613557e-06
+Meningitis                                   -6.621812e-06
+Maternal disorders                           -6.362516e-06
+Road injuries                                 6.065151e-06
+Digestive diseases                            4.481490e-06
+Chronic respiratory diseases                 -3.419114e-06
+Environmental heat and cold exposure         -2.586309e-06
+Self-harm                                    -2.463961e-06
+Fire, heat, and hot substances               -1.476084e-06
+Interpersonal violence                       -1.202358e-06
+Drug use disorders                           -2.987336e-07
+Alcohol use disorders                         1.989653e-07
+Poisonings                                   -3.688123e-08
+Name: 2009, dtype: float64
+Exposure to forces of nature                  9.520467e-04
+Diarrheal diseases                           -2.417157e-04
+Nutritional deficiencies                     -2.362359e-04
+Protein-energy malnutrition                  -2.126544e-04
+Lower respiratory infections                 -1.670728e-04
+Conflict and terrorism                       -1.534855e-04
+Tuberculosis                                 -1.239576e-04
+Neoplasms                                     1.029994e-04
+Neonatal disorders                           -7.876160e-05
+Alzheimer's disease and other dementias       7.230185e-05
+Cardiovascular diseases                       6.064323e-05
+Chronic kidney disease                        5.410940e-05
+Drowning                                     -5.152275e-05
+HIV/AIDS                                      4.009643e-05
+Diabetes mellitus                             2.996475e-05
+Meningitis                                   -1.586179e-05
+Acute hepatitis                              -1.492457e-05
+Parkinson's disease                           1.453183e-05
+Maternal disorders                           -1.134779e-05
+Cirrhosis and other chronic liver diseases    8.885447e-06
+Chronic respiratory diseases                 -6.967195e-06
+Self-harm                                    -4.925059e-06
+Malaria                                       4.518782e-06
+Interpersonal violence                       -3.965579e-06
+Digestive diseases                            3.634383e-06
+Road injuries                                 2.581337e-06
+Fire, heat, and hot substances               -2.485892e-06
+Environmental heat and cold exposure         -6.251725e-07
+Drug use disorders                           -2.679572e-07
+Poisonings                                   -1.862616e-07
+Alcohol use disorders                        -2.720852e-08
+Name: 2010, dtype: float64
+Diarrheal diseases                           -2.772687e-04
+Nutritional deficiencies                     -2.621826e-04
+Protein-energy malnutrition                  -2.384226e-04
+Lower respiratory infections                 -1.842235e-04
+Neoplasms                                     1.705614e-04
+Tuberculosis                                 -1.646451e-04
+Alzheimer's disease and other dementias       1.210717e-04
+Cardiovascular diseases                       1.172867e-04
+Neonatal disorders                           -1.124096e-04
+Conflict and terrorism                       -1.067974e-04
+Chronic kidney disease                        8.802205e-05
+Drowning                                     -6.819077e-05
+Diabetes mellitus                             5.277168e-05
+Exposure to forces of nature                 -3.364349e-05
+Meningitis                                   -2.982271e-05
+Parkinson's disease                           2.261006e-05
+Acute hepatitis                              -1.941239e-05
+Maternal disorders                           -1.589371e-05
+Cirrhosis and other chronic liver diseases    1.166569e-05
+Self-harm                                    -7.285496e-06
+Digestive diseases                            6.962488e-06
+Environmental heat and cold exposure         -6.655626e-06
+Interpersonal violence                       -5.360037e-06
+HIV/AIDS                                      4.581921e-06
+Fire, heat, and hot substances               -3.491995e-06
+Chronic respiratory diseases                 -2.845136e-06
+Road injuries                                 1.062793e-06
+Poisonings                                   -5.466207e-07
+Alcohol use disorders                        -3.555621e-07
+Malaria                                      -2.304374e-07
+Drug use disorders                           -7.006321e-08
+Name: 2011, dtype: float64
+Diarrheal diseases                           -3.966857e-04
+Nutritional deficiencies                     -3.258035e-04
+Protein-energy malnutrition                  -3.026820e-04
+Exposure to forces of nature                 -2.377291e-04
+Neoplasms                                     2.355997e-04
+Lower respiratory infections                 -1.956871e-04
+Tuberculosis                                 -1.899490e-04
+Alzheimer's disease and other dementias       1.759348e-04
+Cardiovascular diseases                       1.698291e-04
+Neonatal disorders                           -1.596468e-04
+Chronic kidney disease                        1.205852e-04
+Diabetes mellitus                             8.306604e-05
+Drowning                                     -8.093845e-05
+Meningitis                                   -4.823264e-05
+Parkinson's disease                           3.132901e-05
+Maternal disorders                           -2.522438e-05
+Acute hepatitis                              -2.339248e-05
+Malaria                                      -2.259497e-05
+Self-harm                                    -1.284668e-05
+Cirrhosis and other chronic liver diseases    1.185761e-05
+Digestive diseases                            7.926600e-06
+Environmental heat and cold exposure         -7.220803e-06
+HIV/AIDS                                     -7.092388e-06
+Fire, heat, and hot substances               -4.929327e-06
+Interpersonal violence                       -4.420066e-06
+Chronic respiratory diseases                 -2.224547e-06
+Poisonings                                   -1.233559e-06
+Alcohol use disorders                        -9.617852e-07
+Conflict and terrorism                       -1.297970e-07
+Road injuries                                 1.749333e-08
+Drug use disorders                           -8.680037e-11
+Name: 2012, dtype: float64
+Diarrheal diseases                           -5.065642e-04
+Nutritional deficiencies                     -3.604918e-04
+Protein-energy malnutrition                  -3.352775e-04
+Neoplasms                                     2.935201e-04
+Alzheimer's disease and other dementias       2.345056e-04
+Cardiovascular diseases                       2.265707e-04
+Neonatal disorders                           -2.196612e-04
+Tuberculosis                                 -2.186663e-04
+Lower respiratory infections                 -2.016652e-04
+Chronic kidney disease                        1.591788e-04
+Diabetes mellitus                             1.175652e-04
+Drowning                                     -1.040369e-04
+Malaria                                      -7.694804e-05
+Meningitis                                   -6.918991e-05
+Exposure to forces of nature                 -5.786626e-05
+HIV/AIDS                                     -5.031655e-05
+Parkinson's disease                           4.242197e-05
+Acute hepatitis                              -3.626866e-05
+Maternal disorders                           -3.218153e-05
+Self-harm                                    -2.216860e-05
+Environmental heat and cold exposure         -1.077468e-05
+Cirrhosis and other chronic liver diseases    1.044468e-05
+Digestive diseases                            8.852980e-06
+Interpersonal violence                       -6.486702e-06
+Fire, heat, and hot substances               -5.758840e-06
+Road injuries                                -2.391218e-06
+Poisonings                                   -2.030875e-06
+Alcohol use disorders                        -1.480377e-06
+Drug use disorders                            3.379795e-07
+Chronic respiratory diseases                 -3.364798e-07
+Conflict and terrorism                        1.588179e-07
+Name: 2013, dtype: float64
+Diarrheal diseases                           -6.663330e-04
+Nutritional deficiencies                     -3.979345e-04
+Protein-energy malnutrition                  -3.713551e-04
+Neoplasms                                     3.696223e-04
+Neonatal disorders                           -3.185580e-04
+Alzheimer's disease and other dementias       3.026588e-04
+Cardiovascular diseases                       2.804928e-04
+Exposure to forces of nature                 -2.683046e-04
+Tuberculosis                                 -2.525617e-04
+Lower respiratory infections                 -2.252340e-04
+Chronic kidney disease                        1.948181e-04
+Diabetes mellitus                             1.599246e-04
+Drowning                                     -1.291172e-04
+Conflict and terrorism                        1.215325e-04
+Malaria                                      -1.210947e-04
+HIV/AIDS                                     -1.106186e-04
+Meningitis                                   -9.087876e-05
+Parkinson's disease                           5.336065e-05
+Acute hepatitis                              -5.329541e-05
+Maternal disorders                           -4.822741e-05
+Self-harm                                    -3.351367e-05
+Environmental heat and cold exposure         -1.270092e-05
+Interpersonal violence                       -9.038750e-06
+Cirrhosis and other chronic liver diseases    8.950708e-06
+Road injuries                                -8.753999e-06
+Digestive diseases                            8.753563e-06
+Fire, heat, and hot substances               -8.042899e-06
+Poisonings                                   -3.521765e-06
+Drug use disorders                            1.856600e-06
+Alcohol use disorders                        -1.707962e-06
+Chronic respiratory diseases                 -2.785207e-09
+Name: 2014, dtype: float64
+Diarrheal diseases                           -8.292942e-04
+Neoplasms                                     4.578364e-04
+Neonatal disorders                           -4.413179e-04
+Nutritional deficiencies                     -4.384876e-04
+Protein-energy malnutrition                  -4.089009e-04
+Cardiovascular diseases                       3.745457e-04
+Alzheimer's disease and other dementias       3.682789e-04
+Tuberculosis                                 -3.267358e-04
+Lower respiratory infections                 -2.574242e-04
+Chronic kidney disease                        2.333158e-04
+Diabetes mellitus                             2.011808e-04
+HIV/AIDS                                     -1.877740e-04
+Malaria                                      -1.708549e-04
+Exposure to forces of nature                 -1.502564e-04
+Drowning                                     -1.487800e-04
+Meningitis                                   -1.279013e-04
+Acute hepatitis                              -6.892491e-05
+Maternal disorders                           -6.527178e-05
+Parkinson's disease                           6.167693e-05
+Conflict and terrorism                        6.115514e-05
+Self-harm                                    -4.244031e-05
+Road injuries                                -1.915163e-05
+Digestive diseases                            1.198330e-05
+Cirrhosis and other chronic liver diseases    1.081127e-05
+Interpersonal violence                       -1.002481e-05
+Fire, heat, and hot substances               -9.290901e-06
+Environmental heat and cold exposure         -8.721827e-06
+Poisonings                                   -5.182768e-06
+Drug use disorders                            5.177576e-06
+Alcohol use disorders                        -1.867100e-06
+Chronic respiratory diseases                 -1.780565e-08
+Name: 2015, dtype: float64
+Diarrheal diseases                           -9.782963e-04
+Neonatal disorders                           -6.337357e-04
+Neoplasms                                     5.607708e-04
+Nutritional deficiencies                     -4.770711e-04
+Cardiovascular diseases                       4.611684e-04
+Alzheimer's disease and other dementias       4.554951e-04
+Protein-energy malnutrition                  -4.452751e-04
+Tuberculosis                                 -3.852340e-04
+Lower respiratory infections                 -3.074144e-04
+Chronic kidney disease                        2.759354e-04
+Malaria                                      -2.736156e-04
+HIV/AIDS                                     -2.626895e-04
+Diabetes mellitus                             2.520656e-04
+Exposure to forces of nature                 -2.479673e-04
+Drowning                                     -1.716626e-04
+Meningitis                                   -1.521015e-04
+Acute hepatitis                              -8.573755e-05
+Maternal disorders                           -7.981793e-05
+Parkinson's disease                           7.164386e-05
+Self-harm                                    -4.849298e-05
+Conflict and terrorism                        4.651900e-05
+Road injuries                                -2.908745e-05
+Environmental heat and cold exposure         -1.741966e-05
+Digestive diseases                            1.559687e-05
+Interpersonal violence                       -1.496691e-05
+Cirrhosis and other chronic liver diseases    1.297749e-05
+Drug use disorders                            1.174046e-05
+Fire, heat, and hot substances               -1.079848e-05
+Poisonings                                   -6.983450e-06
+Alcohol use disorders                        -1.930103e-06
+Chronic respiratory diseases                  1.169566e-07
+Name: 2016, dtype: float64
+Diarrheal diseases                           -0.001041
+Neonatal disorders                           -0.000860
+Neoplasms                                     0.000666
+Alzheimer's disease and other dementias       0.000552
+Cardiovascular diseases                       0.000547
+Nutritional deficiencies                     -0.000517
+Protein-energy malnutrition                  -0.000484
+Tuberculosis                                 -0.000446
+HIV/AIDS                                     -0.000385
+Lower respiratory infections                 -0.000375
+Malaria                                      -0.000368
+Chronic kidney disease                        0.000301
+Diabetes mellitus                             0.000300
+Drowning                                     -0.000201
+Meningitis                                   -0.000192
+Exposure to forces of nature                 -0.000180
+Acute hepatitis                              -0.000097
+Maternal disorders                           -0.000095
+Parkinson's disease                           0.000082
+Self-harm                                    -0.000054
+Road injuries                                -0.000039
+Environmental heat and cold exposure         -0.000021
+Digestive diseases                            0.000021
+Drug use disorders                            0.000018
+Cirrhosis and other chronic liver diseases    0.000017
+Interpersonal violence                       -0.000014
+Fire, heat, and hot substances               -0.000013
+Poisonings                                   -0.000010
+Conflict and terrorism                        0.000004
+Alcohol use disorders                        -0.000002
+Chronic respiratory diseases                  0.000001
+Name: 2017, dtype: float64
+Diarrheal diseases                           -0.001281
+Neonatal disorders                           -0.001120
+Neoplasms                                     0.000792
+Cardiovascular diseases                       0.000664
+Alzheimer's disease and other dementias       0.000637
+Nutritional deficiencies                     -0.000586
+HIV/AIDS                                     -0.000562
+Protein-energy malnutrition                  -0.000550
+Tuberculosis                                 -0.000549
+Lower respiratory infections                 -0.000430
+Malaria                                      -0.000388
+Diabetes mellitus                             0.000344
+Chronic kidney disease                        0.000331
+Meningitis                                   -0.000233
+Drowning                                     -0.000218
+Exposure to forces of nature                 -0.000213
+Acute hepatitis                              -0.000108
+Maternal disorders                           -0.000105
+Parkinson's disease                           0.000095
+Self-harm                                    -0.000053
+Road injuries                                -0.000045
+Environmental heat and cold exposure         -0.000023
+Drug use disorders                            0.000022
+Digestive diseases                            0.000022
+Cirrhosis and other chronic liver diseases    0.000017
+Interpersonal violence                       -0.000017
+Fire, heat, and hot substances               -0.000013
+Poisonings                                   -0.000012
+Conflict and terrorism                       -0.000009
+Chronic respiratory diseases                  0.000004
+Alcohol use disorders                        -0.000002
+Name: 2018, dtype: float64
+Diarrheal diseases                           -0.001509
+Neonatal disorders                           -0.001388
+Neoplasms                                     0.000936
+Cardiovascular diseases                       0.000778
+Alzheimer's disease and other dementias       0.000708
+HIV/AIDS                                     -0.000694
+Tuberculosis                                 -0.000661
+Nutritional deficiencies                     -0.000646
+Protein-energy malnutrition                  -0.000606
+Lower respiratory infections                 -0.000479
+Diabetes mellitus                             0.000387
+Malaria                                      -0.000380
+Chronic kidney disease                        0.000362
+Exposure to forces of nature                 -0.000304
+Meningitis                                   -0.000267
+Drowning                                     -0.000242
+Conflict and terrorism                       -0.000130
+Acute hepatitis                              -0.000121
+Maternal disorders                           -0.000118
+Parkinson's disease                           0.000106
+Self-harm                                    -0.000061
+Road injuries                                -0.000059
+Interpersonal violence                       -0.000028
+Drug use disorders                            0.000027
+Digestive diseases                            0.000022
+Environmental heat and cold exposure         -0.000022
+Cirrhosis and other chronic liver diseases    0.000017
+Poisonings                                   -0.000015
+Fire, heat, and hot substances               -0.000014
+Chronic respiratory diseases                  0.000009
+Alcohol use disorders                        -0.000002
+Name: 2019, dtype: float64

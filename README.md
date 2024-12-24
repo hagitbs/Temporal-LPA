@@ -8,9 +8,9 @@ Python 3.7
 Run `pip install -r requirements.txt`. Make sure your Python version is up to date. 
 
 
-### Data Exploration
+### Data Exploration for COD dataset
 
-A short exploartion of the data can be dound in [LOCO_data_exploration.ipynb](LOCO_data_exploration.ipynb).
+A short exploartion of the data can be dound in [https://github.com/hagitbs/Temporal-LPA/blob/master/new.ipynb](new.ipynb).
 
 
 ### TLPA
